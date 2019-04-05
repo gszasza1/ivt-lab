@@ -11,7 +11,7 @@ public class GT4500 implements SpaceShip {
   private boolean wasPrimaryFiredLast = false;
 
   public GT4500() {
-    this.primaryTorpedoStore = new TorpedoStore(5);
+    this.primaryTorpedoStore = new TorpedoStore(15);
     this.secondaryTorpedoStore = new TorpedoStore(10);
   }
 
@@ -36,7 +36,7 @@ public class GT4500 implements SpaceShip {
   @Override
   public boolean fireTorpedo(FiringMode firingMode) {
 
-    boolean firingSuccess = false;
+    boolean firingSuccess = true;
 
     switch (firingMode) {
       case SINGLE:
