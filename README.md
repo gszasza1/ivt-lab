@@ -10,6 +10,8 @@ The application is simplified and deliberately contains bugs.
 - The project can be built using [Maven](https://maven.apache.org/).
 - [JUnit](http://junit.org/junit4/) is used for tests, and [Mockito](http://site.mockito.org/) for isolating dependencies.
 
+Something happened here
+
 Clone the repository and execute Maven to build the application:
 
 ```
