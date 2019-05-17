@@ -1,0 +1,4 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+hu.bme.mit.spaceship,hu.bme.mit.spaceship,TorpedoStore,77,0,10,0,23,0,9,0,4,0
+hu.bme.mit.spaceship,hu.bme.mit.spaceship,GT4500,21,107,3,18,5,27,5,12,2,4
+hu.bme.mit.spaceship,hu.bme.mit.spaceship,FiringMode,0,24,0,0,0,2,0,1,0,1
